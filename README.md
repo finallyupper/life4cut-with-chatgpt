@@ -13,7 +13,7 @@
 *📚 [code base](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw) 
     
 # 🌟 Overview
-- 전체 수업 자료를 보시려면 *[클릭](./assets/step4.png)* 하세요.
+- 전체 수업 자료를 보시려면 *[클릭](./assets/정신여고 3차시.pdf)* 하세요.
   
 ![poster](./assets/poster.png)
 ![content](./assets/content.png)
